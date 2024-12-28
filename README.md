@@ -2,9 +2,9 @@
 <div align="left">
 
   <!-- markdownlint-disable-next-line -->
-  # ccsuzzh.github.io
+  ## ccsuzzh.github.io
 
-  A personal blog based on Chirpy theme and Jekyl.
+  A personal blog based on jekyll-theme-chirpy.
 
   [![CI](https://img.shields.io/github/actions/workflow/status/ccsuzzh/ccsuzzh.github.io/pages-deploy.yml?logo=github)][ci]&nbsp;
   [![GitHub license](https://img.shields.io/github/license/ccsuzzh/ccsuzzh.github.io?color=goldenrod)][license]&nbsp;
